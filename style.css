@@ -1,0 +1,99 @@
+.QA{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+font: optional;
+font-size: large;
+}
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    border: 2px solid black;
+    border-radius: 40px;
+    background-color: rgb(182, 199, 123);
+    text-align: center;
+    margin: 3px;
+    padding: 12px;
+    width: 500px;
+    /* position: absolute;
+    top: 10PX;
+    left: 5%; */
+}
+#btn{
+    background-color: burlywood;
+    border-radius: 50%;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+   font-style:italic;
+    margin: 3px;
+    padding: 8px;
+    width: 50px;
+    color: black;
+    position: absolute;
+    top: 210px;
+    left: 70%; 
+
+}
+#opt1{
+    border: 2px solid black;
+    background-color: burlywood;
+    border-radius: 4%;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    margin: 10px;
+    padding: 5px;
+    width: 500px;
+    color: black;    
+    position: absolute;
+    top: 60px;
+    left: 51%;
+
+}
+#opt2{
+    border: 2px solid black;
+    background-color: burlywood;
+    border-radius: 4%;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    margin: 10px;
+    padding: 8px;
+    width: 500px;
+    color: black;  
+    position: absolute;
+    top: 99px;
+    left: 51%; 
+
+}
+#opt3{
+    border: 2px solid black;
+    background-color: burlywood;
+    border-radius: 4%;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    margin: 10px;
+    padding: 8px;
+    width: 500px;
+    color: black;  
+    position: absolute;
+    top: 150px;
+    left: 51%; 
+
+}
+
+#ques{
+    border: 2px solid black;
+    background-color: burlywood;
+    border-radius: 10%;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    margin: 3px;
+    padding: 8px;
+    width: 400px;
+    color: black;  
+    position: absolute;
+    top: 85px;
+    left: 15%; 
+
+}
